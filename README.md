@@ -19,7 +19,8 @@ This project demonstrates core Operating System concepts through a practical, do
 
 ## Architecture
 
-The system follows a linear pipeline architecture:
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b9600957-1964-4548-8ffc-6e082bcede80" />
+
 
 ```
 Sensor → Processor → Display → Logger → system_log.txt
